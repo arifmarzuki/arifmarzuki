@@ -35,4 +35,5 @@ alt="Apache Airflow logo"></code>
 <code><img height="30" src="https://assets.website-files.com/605e01bc25f7e19a82e74788/624d9c4a375a55100be6b257_Airbyte_logo_color_dark.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
 <br>
