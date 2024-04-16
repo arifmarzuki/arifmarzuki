@@ -16,7 +16,7 @@
 - 🤝 &nbsp; I'm interested in collaborating on data-driven projects, particularly those involving the development and optimization of data pipelines.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/arif-marzuki-8b4324202/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1PrCNN8u03SnQOBJT7z2X8tGXcZ-RtY-y/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/18ql5CJiXsDuO2B5cMbsE0yMsC4IssZJX)
 - 🎮 &nbsp; When I have free time, I enjoy playing games and unwinding to relax.
 
 
